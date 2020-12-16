@@ -1,0 +1,23 @@
+{
+  "name": "couchbase_step-by-step_node_jp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshiyukiKono/couchbase_step-by-step_node_jp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoshiyukiKono/couchbase_step-by-step_node_jp/issues"
+  },
+  "homepage": "https://github.com/YoshiyukiKono/couchbase_step-by-step_node_jp#readme",
+  "dependencies": {
+    "couchbase": "^3.1.0"
+  }
+}
