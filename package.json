@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/YoshiyukiKono/couchbase_step-by-step_node_jp#readme",
   "dependencies": {
-    "couchbase": "^3.1.0"
+    "couchbase": "^3.1.0",
+    "express": "^4.17.1"
   }
 }
